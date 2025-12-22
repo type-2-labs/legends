@@ -4,21 +4,21 @@
 
 **Type 2 Civilization** *n.* — a civilization that has achieved full mastery of its solar system
 
-**Type 2 Labs** *n.* — a company bootstrapping a Type 2 Civilization, one insane, painful step at a time
+**Type 2 Labs** *n.* — a company bootstrapping a type 2 civilization, one insanely difficult step at a time
 
-[Back The Mission -- Become a Legend](https://buy.stripe.com/5kQ00igCP3LFeXZ2Lb1VL0A)
+[Back The Mission — Become a Legend](https://type2labs.co)
 
 ## Mission 1: Chat, We're Going to The Moon
 
 Type 2 Labs is putting a streaming rover on the moon. 
 
-Streamers, Youtubers, Individuals, Oraganization -- anyone can take control.
+Streamers, Youtubers, Individuals, Organizations — anyone can take control.
 
 But, in terms of money, we have no money.
 
 The initial design is complete and we are currently working a side job and going into credit card debt to fund the first prototype. We are looking for backers that want to support the first streaming base on the moon!
 
-[Back The Mission -- Become a Legend](https://buy.stripe.com/5kQ00igCP3LFeXZ2Lb1VL0A)
+[Back The Mission — Become a Legend](https://type2labs.co)
 
 Progress:
 - [x] Initial design
@@ -67,10 +67,10 @@ More perks will come and be applied retroactively!!! Mission patches, stream spo
 
 A list of legendary individuals and organizations backing our insane mission.
 
-[Back The Mission -- Become a Legend](https://buy.stripe.com/5kQ00igCP3LFeXZ2Lb1VL0A)
+[Back The Mission — Become a Legend](https://type2labs.co)
 
 Legends:
 
-0. (tag) [callsign] name (url) ~ note
-1. (α03) [pericles] William Edward Brennan III ~ Rover Commander in Chief
-2. (α04) [treatbotgg] [Treat Bot](https://www.treatbot.gg) ~ Twitch connected treat dispenser
+0. (tag) [callsign] name (url) — note
+1. (α03r) [pericles] William Edward Brennan III — Rover Commander in Chief
+2. (α04) [treatbotgg] [Treat Bot](https://www.treatbot.gg) — Twitch connected treat dispenser
