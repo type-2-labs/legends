@@ -41,6 +41,10 @@ Streamers, Youtubers, Individuals, Organizations — anyone can take control.
 
 ## Legends Log
 
+A list of legendary individuals and organizations backing our insane mission.
+
+**Tag format**: (stage + tier + r) — α = Prototype #1, 00-05 = tier (number of zeros in donation), r = recurring
+
 0. (tag) [callsign] name (url) — note
 1. (α03r) [pericles] William Edward Brennan III — Rover Commander in Chief
 2. (α04) [treatbotgg] [Treat Bot](https://www.treatbot.gg) — Twitch connected treat dispenser
