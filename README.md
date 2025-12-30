@@ -6,24 +6,24 @@
 
 **Type 2 Labs** *n.* — a company bootstrapping a type 2 civilization, one insanely difficult step at a time
 
-[Back The Mission — Become a Legend](https://type2labs.co)
+[Back The Mission — Become a Legend](https://type2labs.co) | [Backing Rules](BACKING.md)
+
+## The Goal: A Streaming Base on the Moon
+
+Humanity is expanding to the stars. We're starting with the moon.
+
+The goal is a permanent streaming base on the lunar surface — solar power, charging stations, and structures built from lunar regolith. A place anyone on Earth can watch, explore, and control remotely.
 
 ## Mission 1: Chat, We're Going to The Moon
 
-Type 2 Labs is putting a streaming rover on the moon. 
+Type 2 Labs is putting a streaming rover on the moon.
 
 Streamers, Youtubers, Individuals, Organizations — anyone can take control.
 
-But, in terms of money, we have no money.
+## Progress
 
-The initial design is complete and we are currently working a side job and going into credit card debt to fund the first prototype. We are looking for backers that want to support the first streaming base on the moon!
-
-[Back The Mission — Become a Legend](https://type2labs.co)
-
-Progress:
 - [x] Initial design
 - [ ] Prototype v1 (in progress...)
-- [ ] Prototype ...
 - [ ] Prototype vN
 - [ ] Design finalized
 - [ ] Environmental testing
@@ -35,41 +35,11 @@ Progress:
 
 ## Sponsors
 
-### 05 lvl
-
-<a href="https://www.treatbot.gg"><img src="img/treatbot_1024_1024.png" alt="Treat Bot" width="128" height="128"></a>
-
-### 04 lvl
+### 04
 
 <a href="https://www.treatbot.gg"><img src="img/treatbot_1024_1024.png" alt="Treat Bot" width="64" height="64"></a>
 
-### 03 lvl
-
-<a href="https://www.treatbot.gg"><img src="img/treatbot_1024_1024.png" alt="Treat Bot" width="32" height="32"></a>
-
-
-## Tier System
-
-**Stages**
-- α: Prototype
-
-**Backing (Perks)**
-- 00: $1+           name, callsign
-- 01: $10+          message
-- 02: $100+         social url
-- 03: $1,000+       03 sponsor, any url
-- 04: $10,000+      04 sponsor
-- 05: $100,000+     05 sponsor
-
-More perks will come and be applied retroactively!!! Mission patches, stream sponsorships, prototype rover control time, etc.
-
 ## Legends Log
-
-A list of legendary individuals and organizations backing our insane mission.
-
-[Back The Mission — Become a Legend](https://type2labs.co)
-
-Legends:
 
 0. (tag) [callsign] name (url) — note
 1. (α03r) [pericles] William Edward Brennan III — Rover Commander in Chief
