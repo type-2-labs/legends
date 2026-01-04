@@ -112,6 +112,6 @@ For questions about these Terms, contact:
 Type 2 Labs, Inc.
 701 Tillery Street, Suite 12
 Austin, TX 78702
-will@type2labs.co
+support@type2labs.co
 
 **BY MAKING A PAYMENT, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS OF SERVICE.**
