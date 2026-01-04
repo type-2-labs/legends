@@ -24,14 +24,9 @@ Your tier is determined by your cumulative lifetime backing.
 
 | Tier | Backing | Perks |
 |------|---------|-------|
-| 00 | $1+ | Name, callsign |
-| 01 | $10+ | + Message |
-| 02 | $100+ | + Social URL |
-| 03 | $1,000+ | + 03 sponsor listing, any URL |
-| 04 | $10,000+ | + 04 sponsor listing |
-| 05 | $100,000+ | + 05 sponsor listing |
-
-Sponsor listings are displayed on type2labs.co and associated repositories. Type 2 Labs may modify the display format or location at any time.
+| 00 | $1+ | Name on Legends Log, exclusive Discord |
+| 01 | $10+ | + Callsign |
+| 02 | $100+ | + Message |
 
 Additional perks may be added in the future and may apply to existing backers.
 
@@ -89,7 +84,7 @@ Backing during earlier stages shows you believed before it was proven. Alpha bac
 
 All content must be family-friendly.
 
-**Applies to**: Names, callsigns, messages, and URLs
+**Applies to**: Names, callsigns, and messages
 
 **Not allowed**:
 - Profanity or vulgar language
@@ -116,8 +111,9 @@ All backing is final.
 
 You are paying to be listed as a backer on the Legends Log.
 
-- **Tier 00-02**: Your name, callsign, and tier-appropriate details listed on the log
-- **Tier 03-05**: Sponsor listing with your name, logo, or URL displayed publicly
+- **Tier 00**: Your name listed on the log
+- **Tier 01**: + callsign
+- **Tier 02**: + message
 
 ### Scarcity
 Position numbers are ordered. There will only ever be one Legend #1, one Legend #100, one Legend #1000. Early positions cannot be claimed later.
