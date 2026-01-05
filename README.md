@@ -6,7 +6,7 @@
 
 **Type 2 Labs** *n.* — a company bootstrapping a type 2 civilization, one insanely difficult step at a time
 
-[Back The Mission — Become a Legend](https://type2labs.co) | [Backing Rules](BACKING.md)
+[Back The Mission — Become a Legend](https://type2labs.co)
 
 ## The Goal: A Streaming Base on the Moon
 
@@ -43,7 +43,7 @@ Streamers, Youtubers, Individuals, Organizations — anyone can take control.
 
 A list of legendary individuals and organizations backing our insane mission.
 
-**Tag format**: (stage + tier + r) — α = Prototype #1, 00-05 = tier (number of zeros in donation), r = recurring
+**Tag format**: (stage + tier + r) — α = Prototype #1, 00-02 = tier, r = recurring
 
 0. (tag) [callsign] name (url) — note
 1. (α03r) [pericles] William Edward Brennan III — Rover Commander in Chief
