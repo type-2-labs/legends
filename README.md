@@ -6,45 +6,17 @@
 
 **Type 2 Labs** *n.* — a company bootstrapping a type 2 civilization, one insanely difficult step at a time
 
-[Back The Mission — Become a Legend](https://type2labs.co)
+## Chat, We're Going to the Moon
 
-## The Goal: A Streaming Base on the Moon
+Type 2 Labs is sending a streaming rover to the moon controlled by Chat.
 
-Humanity is expanding to the stars. We're starting with the moon.
-
-The goal is a permanent streaming base on the lunar surface — solar power, charging stations, and structures built from lunar regolith. A place anyone on Earth can watch, explore, and control remotely.
-
-## Mission 1: Chat, We're Going to The Moon
-
-Type 2 Labs is putting a streaming rover on the moon.
-
-Streamers, Youtubers, Individuals, Organizations — anyone can take control.
-
-## Progress
-
-- [x] Initial design
-- [ ] Prototype v1 (in progress...)
-- [ ] Prototype vN
-- [ ] Design finalized
-- [ ] Environmental testing
-- [ ] Flight model complete
-- [ ] Secure lander space
-- [ ] Delivered to lander
-- [ ] Launch
-- [ ] Lunar stream
-
-## Sponsors
-
-### 04
-
-<a href="https://www.treatbot.gg"><img src="img/treatbot_1024_1024.png" alt="Treat Bot" width="64" height="64"></a>
+[Support The Mission — Become a Legend](https://type2labs.co/support)
 
 ## Legends Log
 
-A list of legendary individuals and organizations backing our insane mission.
+1. William Edward Brennan III — Rover Commander in Chief
 
-**Tag format**: (stage + tier + r) — α = Prototype #1, 00-02 = tier, r = recurring
+## Corporate Sponsors
 
-0. (tag) [callsign] name (url) — note
-1. (α03r) [pericles] William Edward Brennan III — Rover Commander in Chief
-2. (α04) [treatbotgg] [Treat Bot](https://www.treatbot.gg) — Twitch connected treat dispenser
+**The Official Chat-Controlled Treat Dispenser of Chat, We're Going to the Moon**
+[treatbotgg](https://treatbot.gg)
